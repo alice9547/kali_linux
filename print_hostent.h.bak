@@ -1,0 +1,3 @@
+#include <netdb.h>
+
+void print_hostent(struct hoestent* host);
